@@ -1,0 +1,9 @@
+.items {
+  float: left;
+}
+.button {
+  float: right;
+}
+.cleanList {
+  height: 50px;
+}
